@@ -1,2 +1,0 @@
-# wiredeauth
-Wireless deauthentication tool
