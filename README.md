@@ -1,5 +1,5 @@
 
-# WireDeauth - deauthentication tool for wireless attacks
+# Deauthentication tool for wireless attacks
 
 
 ## Compilation
@@ -15,6 +15,6 @@ Run with '-h' or '--help' to display the usage options.
 
 ## Doc
 
-Run 'make documentation' to generate the documentation.
+Run 'make documentation'.
 
 
